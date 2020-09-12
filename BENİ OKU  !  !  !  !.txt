@@ -1,0 +1,24 @@
+
+
+>>>>>>ALGORİTMALARIN DOSYA METİN, KEY VE ÇIKTI YAPTIKLARI DOSYA YOLLARI <<<<<<<
+
+NOT : Tüm algoritmalar dosyalardan okuyarak işlem gerçekleştirmekte, konsoldan deger girilmemekte.!
+
+girdiler=metin.txt
+şifreler=key.txt
+çıktılar=şifrelimetin.txt
+çözülmüşmetin=şifresiçözülmüsmetin.txt
+mono algoritması key1=monokey1.txt
+mono algoritması key1=monokey2.txt
+
+>>>>>>>>>>>>>>>ALGORİTMA KURALLARI <<<<<<<<<<<<<<<<
+
+1)Sezar algoritmasında key integer deger olmak zorunda
+2)Monoalphabetic algoritamasında 2 tane karışık (monokey1,monokey2) dizisi girilir ve metin girilir.
+3)Vernam algoritmasında metin ve key uzunluğu eşit olmalı.
+4)Vigenere algoritmasında şifresi string olmak zorunda
+5)Railfance algoritmasında şifresi integer ve metin uzunluğundan kısa olmalı.
+6)Hill algoritmasında metin uzunluğu çift ve şifre 4 haneli olmak zorunda.
+7)onetimepad algoritmasında metin buyuk harf olmalı
+8)playfair algoritmasında key string
+9)Polyalphabetic algoritmasında key string
